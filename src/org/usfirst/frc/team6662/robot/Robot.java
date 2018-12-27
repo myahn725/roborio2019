@@ -32,8 +32,6 @@ public class Robot extends IterativeRobot {
 	 */
 	@Override
 	public void robotInit() {
-		robot.driveForward(12);
-		// add a comment
 	}
 
 	/**
